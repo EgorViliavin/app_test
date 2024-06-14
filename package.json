@@ -20,6 +20,7 @@
 	},
 	"devDependencies": {
 		"@antfu/eslint-config": "^2.20.0",
+		"daisyui": "^4.12.2",
 		"eslint": "^8.57.0"
 	}
 }
