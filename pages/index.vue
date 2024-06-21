@@ -5,5 +5,8 @@
 </script>
 
 <template>
-	<div><Banner /><About /></div>
+	<main>
+		<Banner />
+		<About />
+	</main>
 </template>
