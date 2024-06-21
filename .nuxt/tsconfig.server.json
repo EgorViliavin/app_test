@@ -82,6 +82,9 @@
       "assets": [
         "../assets"
       ],
+      "assets/*": [
+        "../assets/*"
+      ],
       "public": [
         "../public"
       ],
@@ -104,6 +107,7 @@
     "../node_modules/@nuxtjs/tailwindcss/runtime/server",
     "../node_modules/nitro-cloudflare-dev/runtime/server",
     "../node_modules/@nuxthub/core/runtime/server",
+    "../node_modules/nuxt-icons/runtime/server",
     "../node_modules/@nuxt/devtools/runtime/server",
     "../node_modules/@nuxt/telemetry/runtime/server",
     "./types/nitro.d.ts",
